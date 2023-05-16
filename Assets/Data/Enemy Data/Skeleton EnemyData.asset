@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3581e9fb43e790d42b8d970b55dacf66, type: 3}
+  m_Name: Skeleton EnemyData
+  m_EditorClassIdentifier: 
+  Name: Skeleton
+  animatedPrefab: {fileID: 4484863746459753513, guid: e4778ebafce2c9940bb5f3261628cffc, type: 3}
+  stats:
+    hp: 250
+    damage: 1
+    xpReward: 100
+    moveSpeed: 1

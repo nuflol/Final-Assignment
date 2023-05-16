@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4786ef1e1484d3f40838021c54fc2815, type: 3}
+  m_Name: Throwing Star
+  m_EditorClassIdentifier: 
+  Name: Throwing Star
+  stats:
+    damage: 100
+    timeToAttack: 2
+    numberOfAttacks: 1
+  weaponBasePrefab: {fileID: 8052920437586820042, guid: 486ba7f2f29794942833ad8ffa79adb5, type: 3}
+  upgrades:
+  - {fileID: 11400000, guid: 5f439048719272744bad465b57e03919, type: 2}
+  - {fileID: 11400000, guid: 1abba7dd362d0284c9d33992e8e6f04f, type: 2}
+  - {fileID: 11400000, guid: 9e14c427020824f458ee19b22a5afde0, type: 2}

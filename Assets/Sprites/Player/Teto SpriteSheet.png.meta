@@ -1,0 +1,900 @@
+fileFormatVersion: 2
+guid: a9c9902844dbab64fb714a955a732acb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 74
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teto SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8988fbdec8b040e4694473891ffcb678
+      internalID: -1095555461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 358
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de244608bfc6c045967976209c5d4c5
+      internalID: 140772707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 358
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73473afcfb0ac44478d9ae1b8d5c7015
+      internalID: 1466621919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 358
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab826b910f4e2ce4f9f515275d99e12e
+      internalID: -168517612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 358
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b766850700514581cfb3d34025487
+      internalID: 1603712756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 358
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3340325a4c0f914695c5748e39be015
+      internalID: 301789768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 358
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0105a40489cd59c4ba2115dd3f14f43f
+      internalID: 1384910932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 358
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c84331e1ba4f1419b20595e3b3cc1a
+      internalID: 1323540399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 358
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8ce357ba3b1a42b4b3147b59d40b3
+      internalID: -1793298761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 358
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5a6a40b2f4f3940979231a2ae8d147
+      internalID: -264942782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 358
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2b8805a2265774ab6dd09516de593b
+      internalID: -1415132788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 358
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b117e664a1b7ce4d8003b2d81e5ef4a
+      internalID: -1258000079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 358
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0650e5020c55d1d469104bed14fa945b
+      internalID: -2127008513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 358
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0e2880a940471458e0643461704574
+      internalID: -1201421714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 358
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801fdb1eec56c184c800741c9b63b548
+      internalID: 837501379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 358
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1469efd5316ddb4aa8f5a177ccf5b94
+      internalID: -280476006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 358
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e2f7110d8a4f40848a52df3ff5cd8
+      internalID: 1034454968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 358
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d4faf5ec40c841a474787c60dbb4c
+      internalID: 1917565254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 358
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f6dce246e5c81488ab278d200bf09e
+      internalID: -79257687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 358
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce84ba0f752a42a43818eb5c5872f53e
+      internalID: 2068184121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 358
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e50dbadae1ab44b82d6b0d23b736ff
+      internalID: 1962749610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 358
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafac5a0669a0ee40b198180f24eb27f
+      internalID: -1078256110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 358
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a0e1ff39a962648b58467713c9fccc
+      internalID: 1094597097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 358
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f651c71d19f7814e9432d1d98044947
+      internalID: 532287239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f23f56a3bce04b8d6d4d56bd6a269
+      internalID: -1232895825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 288
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add2b8eb6dfcbe547ac321202f613a02
+      internalID: -535955127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 288
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ed07c907dade4cba18c8863fbf2f2
+      internalID: 1576558314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 288
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb87cf14923a8564687aba4f915fb580
+      internalID: -1759377320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35e77001753c47489fddbca597f8646
+      internalID: -688055821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0dfbec6deb73b44b9e4ffc0ae43895
+      internalID: 602188253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 5
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca0318f0b34abe4a9a6a33f68ec29fe
+      internalID: 1872463270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teto SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b200baa1ff655c4fa8e7454c25fa31b
+      internalID: -225025514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Teto SpriteSheet_0: -1232895825
+      Teto SpriteSheet_1: -535955127
+      Teto SpriteSheet_10: 1579188961
+      Teto SpriteSheet_100: -1968825051
+      Teto SpriteSheet_101: 997374778
+      Teto SpriteSheet_102: 773579997
+      Teto SpriteSheet_103: -33789946
+      Teto SpriteSheet_104: -1679945635
+      Teto SpriteSheet_11: 2097570046
+      Teto SpriteSheet_12: -1095555461
+      Teto SpriteSheet_13: 140772707
+      Teto SpriteSheet_14: 1466621919
+      Teto SpriteSheet_15: -168517612
+      Teto SpriteSheet_16: 1603712756
+      Teto SpriteSheet_17: 301789768
+      Teto SpriteSheet_18: 1384910932
+      Teto SpriteSheet_19: 1323540399
+      Teto SpriteSheet_2: 1576558314
+      Teto SpriteSheet_20: -1793298761
+      Teto SpriteSheet_21: -264942782
+      Teto SpriteSheet_22: -1415132788
+      Teto SpriteSheet_23: -1258000079
+      Teto SpriteSheet_24: -2127008513
+      Teto SpriteSheet_25: -1201421714
+      Teto SpriteSheet_26: 837501379
+      Teto SpriteSheet_27: -280476006
+      Teto SpriteSheet_28: 1034454968
+      Teto SpriteSheet_29: 1917565254
+      Teto SpriteSheet_3: -1759377320
+      Teto SpriteSheet_30: -79257687
+      Teto SpriteSheet_31: 2068184121
+      Teto SpriteSheet_32: 1962749610
+      Teto SpriteSheet_33: -1078256110
+      Teto SpriteSheet_34: 1094597097
+      Teto SpriteSheet_35: 532287239
+      Teto SpriteSheet_36: 49451056
+      Teto SpriteSheet_37: -95422198
+      Teto SpriteSheet_38: 1128294000
+      Teto SpriteSheet_39: 1517402925
+      Teto SpriteSheet_4: -688055821
+      Teto SpriteSheet_40: 1876016878
+      Teto SpriteSheet_41: 1622035523
+      Teto SpriteSheet_42: -656011114
+      Teto SpriteSheet_43: 1227361332
+      Teto SpriteSheet_44: -827514272
+      Teto SpriteSheet_45: 1852960991
+      Teto SpriteSheet_46: -1043673699
+      Teto SpriteSheet_47: -513616044
+      Teto SpriteSheet_48: -1628515057
+      Teto SpriteSheet_49: -1985806129
+      Teto SpriteSheet_5: 602188253
+      Teto SpriteSheet_50: 592089790
+      Teto SpriteSheet_51: -1121922744
+      Teto SpriteSheet_52: 1120562190
+      Teto SpriteSheet_53: -1971747005
+      Teto SpriteSheet_54: 1195447995
+      Teto SpriteSheet_55: -209605154
+      Teto SpriteSheet_56: -746414153
+      Teto SpriteSheet_57: -880743908
+      Teto SpriteSheet_58: -992065723
+      Teto SpriteSheet_59: -1651162450
+      Teto SpriteSheet_6: 1872463270
+      Teto SpriteSheet_60: -301000180
+      Teto SpriteSheet_61: -514217527
+      Teto SpriteSheet_62: -1999085239
+      Teto SpriteSheet_63: 495761766
+      Teto SpriteSheet_64: -1551878452
+      Teto SpriteSheet_65: -1273292423
+      Teto SpriteSheet_66: 383317433
+      Teto SpriteSheet_67: -1785623620
+      Teto SpriteSheet_68: -1283417936
+      Teto SpriteSheet_69: -1391872297
+      Teto SpriteSheet_7: -225025514
+      Teto SpriteSheet_70: 1643196986
+      Teto SpriteSheet_71: 616256245
+      Teto SpriteSheet_72: -80630087
+      Teto SpriteSheet_73: -2000375287
+      Teto SpriteSheet_74: 1615056264
+      Teto SpriteSheet_75: 2008384309
+      Teto SpriteSheet_76: -1007316003
+      Teto SpriteSheet_77: 273505225
+      Teto SpriteSheet_78: -1898326122
+      Teto SpriteSheet_79: 414012890
+      Teto SpriteSheet_8: 40799394
+      Teto SpriteSheet_80: 158140663
+      Teto SpriteSheet_81: -1623488344
+      Teto SpriteSheet_82: -1187803651
+      Teto SpriteSheet_83: -1366269064
+      Teto SpriteSheet_84: -2046423845
+      Teto SpriteSheet_85: 1656931006
+      Teto SpriteSheet_86: 1289334308
+      Teto SpriteSheet_87: -345527047
+      Teto SpriteSheet_88: -1715561902
+      Teto SpriteSheet_89: 1598518850
+      Teto SpriteSheet_9: -1633375393
+      Teto SpriteSheet_90: 1585738688
+      Teto SpriteSheet_91: -277430484
+      Teto SpriteSheet_92: -1029143290
+      Teto SpriteSheet_93: 980922643
+      Teto SpriteSheet_94: 943634280
+      Teto SpriteSheet_95: -452886917
+      Teto SpriteSheet_96: -1082085721
+      Teto SpriteSheet_97: 343711330
+      Teto SpriteSheet_98: -488491571
+      Teto SpriteSheet_99: 226652739
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
