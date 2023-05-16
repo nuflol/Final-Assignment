@@ -2983,6 +2983,7 @@ MonoBehaviour:
   enemy: {fileID: 740928413867618132, guid: 4ff3f77a83fee9c46becf8c258517b80, type: 3}
   spawnArea: {x: 20, y: 15}
   spawnTimer: 2
+  bossHealthBar: {fileID: 0}
 --- !u!4 &2024684521
 Transform:
   m_ObjectHideFlags: 0

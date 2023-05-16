@@ -13,14 +13,62 @@ MonoBehaviour:
   m_Name: Stage 1 Data
   m_EditorClassIdentifier: 
   stageEvents:
-  - eventType: 1
+  - eventType: 0
     time: 5
     message: 
     enemyToSpawn: {fileID: 11400000, guid: 9a83061b7f708924cb60fbdc7fbdd2e4, type: 2}
     objectToSpawn: {fileID: 0}
+    count: 15
+  - eventType: 0
+    time: 20
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: e9c8eaf58e0066745a8922789eb2b5a8, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 10
+  - eventType: 0
+    time: 35
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: e9c8eaf58e0066745a8922789eb2b5a8, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 15
+  - eventType: 0
+    time: 35
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 9a83061b7f708924cb60fbdc7fbdd2e4, type: 2}
+    objectToSpawn: {fileID: 0}
     count: 5
+  - eventType: 0
+    time: 45
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 9a83061b7f708924cb60fbdc7fbdd2e4, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 10
+  - eventType: 0
+    time: 45
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: e9c8eaf58e0066745a8922789eb2b5a8, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 25
+  - eventType: 0
+    time: 55
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 9a83061b7f708924cb60fbdc7fbdd2e4, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 25
+  - eventType: 0
+    time: 70
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: 9a83061b7f708924cb60fbdc7fbdd2e4, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 25
+  - eventType: 1
+    time: 100
+    message: 
+    enemyToSpawn: {fileID: 11400000, guid: e9c8eaf58e0066745a8922789eb2b5a8, type: 2}
+    objectToSpawn: {fileID: 0}
+    count: 35
   - eventType: 3
-    time: 25
+    time: 140
     message: 
     enemyToSpawn: {fileID: 0}
     objectToSpawn: {fileID: 0}

@@ -140,8 +140,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dropItemPrefab:
   - {fileID: 6274222033455407813, guid: a2a6ae3249956ed4aa921f870aea73f3, type: 3}
-  - {fileID: 4634773228318897556, guid: 06e86474d3db8d848a658d29a1b12cd5, type: 3}
-  chance: 0.4
+  - {fileID: 3931668897836291140, guid: a0efba94e60781141afa0cc5e1b4398d, type: 3}
+  chance: 0.5
 --- !u!114 &-8050076384222339942
 MonoBehaviour:
   m_ObjectHideFlags: 0

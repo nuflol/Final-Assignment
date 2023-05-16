@@ -7,10 +7,14 @@ public class StageProgress : MonoBehaviour {
         _stageTime = GetComponent<StageTime>();
     }
 
-    [SerializeField] private float progressTimeRate = 30f;
-    [SerializeField] private float progressPerSplit = 0.2f;
+    [SerializeField] private float progressTimeRate;
+    [SerializeField] private float progressPerSplit;
 
     public float Progress {
         get { return 1f + _stageTime.time / progressTimeRate * progressPerSplit; }
+    }
+
+    private void FixedUpdate() {
+        
     }
 }

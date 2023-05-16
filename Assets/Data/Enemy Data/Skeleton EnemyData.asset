@@ -15,7 +15,7 @@ MonoBehaviour:
   Name: Skeleton
   animatedPrefab: {fileID: 4484863746459753513, guid: e4778ebafce2c9940bb5f3261628cffc, type: 3}
   stats:
-    hp: 250
+    hp: 100
     damage: 1
-    xpReward: 100
-    moveSpeed: 1
+    xpReward: 350
+    moveSpeed: 2

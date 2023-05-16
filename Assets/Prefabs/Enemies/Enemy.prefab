@@ -29,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 740928413867618132}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.6982841, y: -0.4789821, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.6, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -95,10 +95,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6d90b5f4fd7912499cf0cd49278919a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
-  hp: 1
-  damage: 1
-  xpReward: 5
+  stats:
+    hp: 1
+    damage: 1
+    xpReward: 100
+    moveSpeed: 1
 --- !u!114 &74186621234866286
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -112,9 +113,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dropItemPrefab:
-  - {fileID: 6274222033455407813, guid: a2a6ae3249956ed4aa921f870aea73f3, type: 3}
   - {fileID: 4634773228318897556, guid: 06e86474d3db8d848a658d29a1b12cd5, type: 3}
-  chance: 0.5
+  chance: 1
 --- !u!114 &6650882140436742629
 MonoBehaviour:
   m_ObjectHideFlags: 0
